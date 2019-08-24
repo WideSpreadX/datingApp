@@ -5,7 +5,11 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "host": "zf4nk2bcqjvif4in.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "username": "fa5zmt1u2uun4jya",
+    "password": "gkjihtf1cul3w3wd",
+    "database": "iopdpho166usnyxb"
   },
   "repository": {
     "type": "git",
